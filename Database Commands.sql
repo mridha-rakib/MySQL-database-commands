@@ -1,0 +1,1 @@
+ALTER TABLE tableName CHANGE oldcolname newcolname datatype(length);
